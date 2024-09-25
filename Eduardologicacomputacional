@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    inteiro numero
+    escreva("Digite um numero inteiro:")
+    leia("numero")
+    inteiro dobro
+    dobro = numero * 2
+    escreva("O dobro do numero é:", dobro)
+  }
+}
